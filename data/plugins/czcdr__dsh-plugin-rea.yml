@@ -2,6 +2,6 @@ url: https://github.com/czcdr/dsh-plugin-rea
 name: czcdr/dsh-plugin-rea
 category: tools
 description:
-  en: 'Third-party adapter that registers the local REA (Reverse Engineer Anything) MCP server as native DeepSeek Harness tools, adding mcp__rea__* tools for native binary (Ghidra), APK, web and runtime analysis.'
-  zh: '第三方适配插件：把本机 REA（Reverse Engineer Anything）的 MCP 服务器注册成 DeepSeek Harness 原生工具，提供 mcp__rea__* 系列工具，覆盖原生二进制（Ghidra）、APK、网页与运行时分析。'
+  en: 'Third-party adapter that registers the upstream REA (Reverse Engineer Anything) MCP server into DeepSeek Harness as mcp__rea__* tools. REA itself analyses native binaries (Hopper/Ghidra/IDA), JavaScript/Electron apps, .NET assemblies, websites, Android APKs and adb devices, firmware, and process captures.'
+  zh: '绗笁鏂归€傞厤鎻掍欢锛氭妸涓婃父 REA锛堥€嗗悜涓€鍒囷紝github.com/morluto/rea锛夌殑 MCP 鏈嶅姟娉ㄥ唽杩?DeepSeek Harness锛屾彁渚?mcp__rea__* 宸ュ叿銆傞€嗗悜鍒嗘瀽鑳藉姏鐢?REA 鎻愪緵锛岃鐩栧師鐢熶簩杩涘埗锛圚opper/Ghidra/IDA锛夈€丣avaScript/Electron 搴旂敤銆?NET 绋嬪簭闆嗐€佺綉绔欍€丄ndroid APK 涓?adb 璁惧銆佸浐浠朵笌杩涚▼鎹曡幏銆?
 tarball: https://github.com/czcdr/dsh-plugin-rea/releases/latest/download/dsh-plugin-rea.tgz
